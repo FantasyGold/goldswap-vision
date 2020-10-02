@@ -2,12 +2,12 @@
 
 Currently a fork of [uniswap-info](https://github.com/Uniswap/uniswap-info) for until we build our own.
 
-![Tests](https://github.com/goldswap/goldswap-vision/workflows/Tests/badge.svg)
+
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-Transaction and liquidity pool stats for [GoldSwap](https://goldswap.fgc.exchange).
+Transaction and liquidity pool stats for [GoldSwap Exchange](https://goldswap.fgc.exchange).
 
-Check it out live: [https://goldswap.vision](https://goldswap.vision).
+Check it out live: Coming Soon
 
 ### To Start Development
 
