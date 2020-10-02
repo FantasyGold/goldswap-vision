@@ -4,8 +4,8 @@ import { HttpLink } from 'apollo-link-http'
 
 export const client = new ApolloClient({
   link: new HttpLink({
-    uri: 'https://api.thegraph.com/subgraphs/name/zippoxer/goldswap-subgraph-fork' //TODO Make own subgraph api
-  }),
+    uri: 'https://api.thegraph.com/subgraphs/name/fantasygold/gold-swap' //TODO Make Subgraph 
+    }),
   cache: new InMemoryCache(),
   shouldBatch: true
 })
